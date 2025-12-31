@@ -4,6 +4,10 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+# 2025-12-31
+### 本月更新的接口有：[MBTI](#674)。
+* **<a id="674">MBTI</a>(可在线调用):** MBTI人格测试经过了长达50多年的研究... [接口地址](https://www.free-api.com/doc/674)
+
 # 2025-11-30
 ### 本月更新的接口有：[中文数字运算验证码](#673)。
 * **<a id="673">中文数字运算验证码</a>(可在线调用):** 提供高效的中文数字运算验证码服务，自动生... [接口地址](https://www.free-api.com/doc/673)
