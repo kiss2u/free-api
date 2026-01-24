@@ -4,6 +4,10 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+# 2026-01-24
+### 本月更新的接口有：[火车票查询](#675)。
+* **<a id="675">火车票查询</a>(可在线调用):** 支持查询高铁、动车等列车的实时票务信息，... [接口地址](https://www.free-api.com/doc/675)
+
 # 2025-12-31
 ### 本月更新的接口有：[MBTI](#674)。
 * **<a id="674">MBTI</a>(可在线调用):** MBTI人格测试经过了长达50多年的研究... [接口地址](https://www.free-api.com/doc/674)
