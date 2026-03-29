@@ -4,6 +4,10 @@
 <img src="https://github.com/fangzesheng/free-api/blob/master/qrcode.gif" width="180" height="180">
 </div>
 
+# 2026-03-29
+### 本月更新的接口有：[用户界面头像](#677)。
+* **<a id="677">用户界面头像</a>:** 根据名字生成带有首字母的头像 [接口地址](https://www.free-api.com/doc/677)
+
 # 2026-02-25
 ### 本月更新的接口有：[国内运营商基站信息](#676)。
 * **<a id="676">国内运营商基站信息</a>:** 国内三网运营商基站位置信息数据查询 [接口地址](https://www.free-api.com/doc/676)
